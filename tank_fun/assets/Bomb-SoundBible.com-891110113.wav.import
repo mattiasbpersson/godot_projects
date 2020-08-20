@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Bomb-SoundBible.com-891110113.wav-791bf8ba9132cd84f3299ebec3da1db9.sample"
+
+[deps]
+
+source_file="res://assets/Bomb-SoundBible.com-891110113.wav"
+dest_files=[ "res://.import/Bomb-SoundBible.com-891110113.wav-791bf8ba9132cd84f3299ebec3da1db9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tank Firing-SoundBible.com-998264747.wav-65b6a863244b74e1a77f739e97f49810.sample"
+
+[deps]
+
+source_file="res://assets/Tank Firing-SoundBible.com-998264747.wav"
+dest_files=[ "res://.import/Tank Firing-SoundBible.com-998264747.wav-65b6a863244b74e1a77f739e97f49810.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
